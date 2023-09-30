@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Viewer Page</title>
+    </head>
+	<style>
+	iframe{
+    border:none;
+    display:block;
+	}
+
+	</style>
+    <body style="background-color:rgba(255, 255, 255, .7);">
+        <div id="app" class="full-height"></div>
+		<script src="https://extension-files.twitch.tv/helper/v1/twitch-ext.min.js"></script>
+		<script src="jquery-3.3.1.min.js" type="text/javascript"></script>
+		<script src="viewer.js" type="text/javascript"></script>
+		<script>
+    window.onload=refreshIframe;
+    function refreshIframe(){
+    var syntheIFrame = document.getElementById('PDHSyntheLink');
+    syntheIFrame.src = "https://yazid2424.github.io/PDHSynthe/Synthe.html?"+ (new Date()).getTime() + Math.floor(Math.random() * 1000000);
+    var linksIFrame = document.getElementById('PDHLinks');
+    linksIFrame.src = "https://yazid2424.github.io/PDHSynthe/PDH_Links?"+ (new Date()).getTime() + Math.floor(Math.random() * 1000000);
+	}
+    </script>
+	    <iframe id="PDHSyntheLink" src="https://yazid2424.github.io/PDHSynthe/Synthe.html" width="1024" height="1024"></iframe>
+		<iframe id="PDHLinks" width="1024" height="490" src="https://yazid2424.github.io/PDHSynthe/PDH_Links.html"><iframe>
+	</body>
+</html>
