@@ -1,12 +1,14 @@
-GUEST:ALI EL BAZ
-ANCIEN COORDINATEUR DE L'ATMF.
-MEMBRE DU COPAGF ET DU <a href="https://www.gisti.org/spip.php?page=sommaire" target="_blank" rel="noopener noreferrer">GISTI</a>(GROUPE D'INFORMATION ET DE SOUTIENT DES IMMIGRÉ.E.S).
+GUEST:SIMON ASSOUN
+MEMBRE DE L'UNION JUIVE FRANÇAISE POUR LA PAIX <a href="https://twitter.com/contactujfp" target="_blank" rel="noopener noreferrer">(UJFP)</a> ET DE <a href="https://twitter.com/TSDKcollectif" target="_blank" rel="noopener noreferrer">TSEDEK</a>  
 
-GUEST:ANNA SIBLEY
-MEMBRE DU GROUPE D'INFORMATION ET DE SOUTIENT DES IMMIGRÉ.E.S (GISTI)
+GUEST:SARRA GRIRA
+JOURNALISTE
 
-GUEST:HENRI BRAUN
-AVOCAT AU BARREAU DE PARIS ENGAGÉ DANS LA DÉFENSE DES SANS PAPIERS
+GUEST:STATHIS KOUVÉLAKIS
+MEMBRE DE LA REVUE <a href="https://www.contretemps.eu/" target="_blank" rel="noopener noreferrer">CONTRETEMPS</a> 
 
-GUEST:DANIEL BLONDET
-MILITANT ANTI-IMPERIALISTE ET ANTIGUERRE
+GUEST:JULIEN THÉRY
+HISTORIEN, JOURNALISTE CHEZ <a href="https://www.lemediatv.fr/" target="_blank" rel="noopener noreferrer">LE MEDIA</a> 
+
+GUEST:YOHAN
+CREATE DE LA CHAÎNE YOUTUBE <a href="https://www.youtube.com/@LeCanardRefractaire" target="_blank" rel="noopener noreferrer">CANARD REFRACTAIRE</a>
