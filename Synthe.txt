@@ -12,4 +12,4 @@ GUEST:<b>JULIEN THÉRY</b>
 
 GUEST:<b>YOHAN</b>
 <b>CREATE DE LA CHAÎNE YOUTUBE
-<a href="https://www.youtube.com/@LeCanardRefractaire" target="_blank" rel="noopener noreferrer">CANARDREFRACTAIRE</a></b>
+<a href="https://www.youtube.com/@LeCanardRefractaire" target="_blank" rel="noopener noreferrer">CANARD-REFRACTAIRE</a></b>
